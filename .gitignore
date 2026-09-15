@@ -1,0 +1,22 @@
+.DS_Store
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+/agentguard-mcp
+/bin/
+/dist/
+
+# Coverage and test output
+coverage.out
+*.coverprofile
+*.cov
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
